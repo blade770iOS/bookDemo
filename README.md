@@ -7,6 +7,6 @@ about a Demo, bookView
   s.homepage     = "https://github.com/blade770/bookDemo"
   s.license      = { :type => "MIT", :file => "LICENSE"}
   s.author             = { "blade770" => "blade770@163.com" }
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios
   s.source       = { :git => "https://github.com/blade770/bookDemo.git" , :tag => "0.0.1" }
   s.requires_arc = true
